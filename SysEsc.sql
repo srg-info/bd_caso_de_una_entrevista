@@ -1,6 +1,6 @@
 -- ======================================================
 --  Proyecto: SysEsc - Sistema de Calificaciones Escolares
---  Autor: [srg.inf]
+--  Autor: [srg.info]
 --  Descripción: Modelo relacional de ejemplo para 
 --  entrevistas técnicas SQL. Incluye inserciones y consultas.
 -- ======================================================
