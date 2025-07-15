@@ -63,4 +63,4 @@ Este archivo contiene errores intencionales de sintaxis y lógica para que pueda
 
 📄 [Ver archivo Consultas_SysEsc_Errores.sql](./Consultas_SysEsc_Errores.sql)
 
-© srg.inf | Proyecto para fines educativos.
+© srg.info | Proyecto para fines educativos.
