@@ -50,13 +50,17 @@ Contiene la estructura de las tablas y datos de prueba de la base de datos:
 
 ---
 📁 Consultas_SysEsc.sql
--Incluye un conjunto de consultas SQL prácticas para:
+-Incluye un conjunto de consultas SQL prácticas para preparte en:
 -Listar alumnos con sus materias y calificaciones.
 -Calcular promedios de calificación por alumno (ranking de alumnos).
+-Identificar materias con menor promedio (materias más difíciles).
 
-Identificar materias con menor promedio (materias más difíciles).
-🧾 [Ver archivo Consultas_BD_Venta.sql](./Consultas_BD_Venta.sql)
+🧾 [Ver archivo Consultas_BD_Venta.sql](./ConsultasSysEsc.sql)
 
 ---
+### 📁 Consultas con Errores (para práctica)
+Este archivo contiene errores intencionales de sintaxis y lógica para que puedas practiquer su corrección.
+
+📄 [Ver archivo Consultas_SysEsc_Errores.sql](./Consultas_SysEsc_Errores.sql)
 
 © srg.inf | Proyecto para fines educativos.
