@@ -46,8 +46,7 @@ Contiene la estructura de las tablas y datos de prueba de la base de datos:
 -Tablas relacionales con integridad referencial.
 -Inserción de alumnos, materias y calificaciones.
 
-Simulación de datos reales para prácticas académicas.
-📄 [Ver archivo Consultas_BD_Venta.sql](./Consultas_BD_Venta.sql)
+📄 [Ver archivo SysEsc.sql](./SysEsc.sql)
 
 ---
 📁 Consultas_SysEsc.sql
