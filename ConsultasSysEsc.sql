@@ -1,6 +1,6 @@
 -- ======================================================
 --  Proyecto: SysEsc - Consultas para Práctica a Entrevista
---  Autor: [srg.inf]
+--  Autor: [srg.info]
 --  Descripción: Colección de ejercicios SQL (básicos e intermedios y avanzados)
 --  basados en el modelo relacional SysEsc.
 -- ======================================================
