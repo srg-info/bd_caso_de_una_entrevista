@@ -33,6 +33,21 @@ CREATE TABLE Calificacion (
     Calificacion DECIMAL(4,2) NULL);
 
 -- ========================
+-- Modificar Datos
+-- ========================
+/* -- Aqui te agrego la syntaxis para modificar o;
+-- (-)Tabla
+ALTER TABLE Calificacion
+ALTER COLUMN Calificacion DECIMAL(4,2) NULL;
+
+--(-)Actualizar campos (datos) de tabla Calificacion
+UPDATE Calificacion
+SET Calificacion = 9.0, IdMateria = 2
+WHERE IdCalificacion = 33;
+-- Recuerda siempre especificar el campo con WHRE, evitando remplasar todos los campos*/
+
+
+-- ========================
 -- Insertar Datos
 -- ========================
 
