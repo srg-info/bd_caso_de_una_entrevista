@@ -1,6 +1,7 @@
 -- ======================================================
 --  Proyecto: SysEsc - Consultas con Errores para Práctica
---  Autor: [srg.info]
+--  Autor: [srg-info]
+--  Licencia: [MIT]
 --  Descripción: Archivo con errores de sintaxis o lógicos
 --  para que los puedas identificar y correjir.
 -- ======================================================
