@@ -63,4 +63,9 @@ Este archivo contiene errores intencionales de sintaxis y lógica para que pueda
 
 📄 [Ver archivo Consultas_SysEsc_Errores.sql](./Consultas_SysEsc_Errores.sql)
 
-@ srg.info | Proyecto para fines educativos.
+## 📄 Licencia
+
+Este script se distribuye con fines educativos y está bajo licencia MIT. 
+
+##
+@ srg.info | Proyecto personal para fines educativos con SQL.
