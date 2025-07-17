@@ -66,6 +66,8 @@ Este archivo contiene errores intencionales de sintaxis y lógica para que pueda
 ## 📄 Licencia
 
 Este script se distribuye con fines educativos y está bajo licencia MIT. 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ##
 @ srg.info | Proyecto personal para fines educativos con SQL.
